@@ -1,0 +1,19 @@
+PROBLEM:Create a function which takes two params 1 for studentData second for specific student name which Finds a student(s) in  a specific database
+
+
+what is data?
+
+data is a collection here such as students names
+const studentsData = ["ali", "shah", "siraj", "jamil"];
+
+
+what is algorithems?
+
+this is an algorithm 
+  for (let i = 0; i < allStudents.length; i++) {
+    if (studentsData[i] === studentName) {
+      console.log("user name is ", studentsData[i]);
+    }
+  }
+
+  through which we found a specific student

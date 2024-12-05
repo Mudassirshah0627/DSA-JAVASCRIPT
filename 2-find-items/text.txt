@@ -1,0 +1,11 @@
+what is big o notation
+Big o notation help us understand how long algorithem will take to run or 
+how much memory it will need as the amount of data it handles grow.
+
+what is o(n)
+Signifies that the execution time of the algorithm grows linearly in proportion 
+to the size of the input data (n).
+
+
+
+
